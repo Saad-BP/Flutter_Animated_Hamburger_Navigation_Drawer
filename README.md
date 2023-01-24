@@ -1,10 +1,10 @@
-# flutter_design_collection
+# Flutter Animated Burger Icon
 
-A new Flutter project.
+The Burger is animated only here
 
-## Getting Started
+## Features:
 
-This project is a starting point for a Flutter application.
+This feature can be used as a drawer and serve menues to the app user.
 
 A few resources to get you started if this is your first Flutter project:
 
