@@ -1,15 +1,13 @@
-# Flutter Animated Burger-Icon
+# Flutter Animated Hamburger Navigation Drawer
 
-This feature can be used as a drawer and serve menues to the app user.
+This Flutter Animated Burger-Icon Drawer feature can be used as a drawer and serve menues to the app user.
+The Burger-Icon is animated only here in this project.
 
-## Features:
+## Features
 
-The Burger-Icon is animated only here in this project. 
+- Animated Drawer
 
-A few resources to get you started if this is your first Flutter project:
+- Customizable Code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-### Developed By:
-#### Saad Rahman
+##
+###### Developed By: [Saad Rahman](https://github.com/Saad-BP)
