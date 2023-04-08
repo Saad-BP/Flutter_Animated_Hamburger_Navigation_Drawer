@@ -1,5 +1,9 @@
-import 'dart:math';
+/**
+ * Author: Mohd. Saad Rahman
+ * profile: https://github.com/Saad-BP
+**/
 
+import 'dart:math';
 import 'package:flutter/material.dart';
 
 void main() {
